@@ -1,0 +1,27 @@
+"I'm building a recruitment website for my company, which will integrate with Frappe/ERPNext for backend operations. The site should cater to both job seekers and our internal recruitment team. I need a complete codebase that includes the following pages and features, using the latest and most straightforward technologies suitable for rapid development and easy maintenance:
+
+Home Page: A welcoming interface that outlines our services, latest job listings, and quick navigation to other sections of the website. It should also feature a search bar for job listings and a section for testimonials or success stories.
+
+Login and Registration Page: Secure authentication for users (job seekers) and admins (recruitment team). Registration for new users with fields for name, email, password, and resume upload. Integration with ERPNext for user data storage and management.
+
+Job Listing Page: A dynamic listing of available jobs that users can apply to. Each listing should include the job title, description, required qualifications, and an "Apply" button. This page should pull data from ERPNext, where job listings are managed.
+
+Integration with ERPNext: Ensure seamless data exchange between the website and ERPNext. Use ERPNext's APIs for user management, job postings, and applications. Provide detailed documentation on how the integration works and ensure data consistency across systems.
+
+Technology Stack Recommendation: Suggest the most suitable technology stack for building this website, considering ease of development, future scalability, and integration capabilities with ERPNext. Preferably, suggest technologies that are widely supported and have a strong community.
+
+Additional Requirements:
+
+The website should be responsive, ensuring a seamless experience across desktop and mobile devices.
+Implement basic SEO best practices.
+Ensure the website's security, especially for user data and authentication.
+Provide a simple admin interface in the backend for managing job listings.
+Deliverables:
+
+Full source code for the website, including HTML, CSS, JavaScript, and any backend code.
+A README file with installation, configuration, and deployment instructions.
+A brief documentation outlining the architecture of the solution, especially focusing on ERPNext integration.
+Deadline: The project needs to be completed and ready for launch by 04/01/2024.
+
+Please generate a full codebase fulfilling these requirements, ensuring the code is clean, well-commented, and follows best practices for web development."
+
